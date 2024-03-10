@@ -1,0 +1,37 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: MVStore
+Employee Name: Jizdan
+Base Pay: $150000.0
+Number of Hours worked: 80.0hrs
+Payment Rate per hour: $100.0/hr
+Total Sales in store: $150000.0
+Sales done: $75000.0
+Percentage of sales done: 50.00%
+Gross Payment: $181700.0
+Remaining store revenue: $-52173.0
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+1. Sales Associate Details:
+Store Details: MVStore
+Employee Name: Hojlund
+Base Pay: $20000.0
+Number of Hours worked: 20.0hrs
+Payment Rate per hour: $60.0/hr
+Sales Rate: 500000.0%
+Total commission: $2000.0
+Gross Payment: $23200.0
+******************************************************
+Number of employees working as SUPERVISORS are: 1
+******************************************************
+1. Supervisor Details:
+Store Details: MVStore
+Employee Name: Rashford
+Base Pay: $50000.0
+Number of Hours worked: 60.0hrs
+Payment Rate per hour: $80.0/hr
+
+Gross Payment: $25054800.0
